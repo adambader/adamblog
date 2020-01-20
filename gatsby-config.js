@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Adam Bader | Product Manager & Entrepreneur`,
     navigation: [
       {
         title: `Blog`,
